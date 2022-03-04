@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data analytics and programs related to the field. If you have any tips and tricks, let me know!
 - 💞️ I’m looking to collaborate on projects focused on:
   - 1) Recognizing and improving on discrepancies in healthcare
-  - 2) Creating more diverse and inclusive spaces in the workforc to ensure equality and equity for all
+  - 2) Creating more diverse and inclusive spaces in the workforce to ensure equality and equity for all
   - 3) Learning more about machine learning (specifically neural engineering relations)
   - 4) analyzing data patterns in engineering, especially those involved in civil, environmental, and geotechnical engineering specialties
 - 📫 How to reach me 
