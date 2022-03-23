@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @csobent or Carter
-- 👀 I’m interested in video gaming (specifically RPGs), reading (mystery, fantasy, dystopian, and more!), listening to podcasts, music (EDM, rap, pop, rock). I'm also a strong advocate for mental health and, especially, LGBTQ+ rights, since I am FTM! Ask me more!
+- 👀 I’m interested in video gaming (specifically RPGs), reading (mystery, fantasy, dystopian, and more!), listening to podcasts, music (EDM, rap, pop, rock). I'm also a strong advocate for mental health and, especially, LGBTQ+ rights! Ask me more!
 - 🌱 I’m currently learning data analytics and programs related to the field. If you have any tips and tricks, let me know!
 - 💞️ I’m looking to collaborate on projects focused on:
   - 1) Recognizing and improving on discrepancies in healthcare
