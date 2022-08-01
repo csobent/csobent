@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on projects focused on:
   - 1) Recognizing and improving on discrepancies in healthcare
   - 2) Creating more diverse and inclusive spaces in the workforce to ensure equality and equity for all
-  - 3) Learning more about machine learning (specifically neural engineering relations)
-  - 4) Analyzing data patterns in engineering, especially those involved in civil, environmental, and geotechnical engineering specialties
+  - 3) Destigmatizing the negative perspectives abour mental health
+  - 4) Brainstorming ideas on how to make a LGBTQ+ website with direct information to providers who care about the community
 - 📫 How to reach me 
 - email: csobent93@outlook.com
 - email: carter.bent.93@gmail.com
