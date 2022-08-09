@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects focused on:
   - 1) Recognizing and improving on discrepancies in healthcare
   - 2) Creating more diverse and inclusive spaces in the workforce to ensure equality and equity for all
-  - 3) Destigmatizing the negative perspectives abour mental health
+  - 3) Destigmatizing the negative perspectives about mental health
   - 4) Brainstorming ideas on how to make a LGBTQ+ website with direct information to providers who care about the community
 - 📫 How to reach me 
 - email: csobent93@outlook.com
